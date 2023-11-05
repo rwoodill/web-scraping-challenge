@@ -5,9 +5,10 @@
 
 # File Locations
 
-- Part 1: web-scraping-challenge > Starter Code > part_1_mars_news.ipynb
-- Part 2: web-scraping-challenge > Starter Code > part_2_mars_weather.ipynb
-- Final DataFrame for part 2: web-scraping-challenge > Starter Code > mars_weather_data.csv
+- Part 1: web-scraping-challenge > Starter_Code > part_1_mars_news.ipynb
+- Part 2: web-scraping-challenge > Starter_Code > part_2_mars_weather.ipynb
+- Final DataFrame for part 2: web-scraping-challenge > Starter_Code > mars_weather_data.csv
+- Untouched Starter Code: web-scraping-challenge > Starter_Code_Untouched
 
 # Instructions
 Part 1: Scrape Titles and Preview Text from Mars News
